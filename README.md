@@ -1,9 +1,9 @@
--  Hi, I’m @Nintendoboi22
+-  Hi, I’m @Nintendoboi22(I want Nintendoboi2)
 -  I’m interested in: js and html ig
 -  I’m currently learning: python ig
 -  I’m looking to collaborate: on nthing
--  How to reach me: dont
+-  How to reach me: discord? Nintnedoboi2
 -  Pronouns: he/him
--  Fun fact: ⬇️
+-  Fun fact: ➡
 ![fortnite](cover3.jpg)
 ![Nintendoboi22's GitHub stats](https://github-readme-stats.vercel.app/api?username=nintendoboi22&show_icons=true&theme=synthwave&hide=prs,issues)
