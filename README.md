@@ -11,4 +11,4 @@
 -  My fav Goobers: ➡
 ![fortnite](cover3.jpg)
 ![kittie](gRE6UG.gif)
-![Nintendoboi22's GitHub stats](https://github-readme-stats.vercel.app/api?username=nintendoboi22&show_icons=true&theme=synthwave&hide=prs,issues)
+![Nintendoboi22's GitHub stats](https://github-readme-stats.vercel.app/api?username=nintendoboi22&show_icons=true&theme=synthwave)
