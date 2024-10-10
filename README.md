@@ -1,4 +1,4 @@
--  Hi, I’m @Nintendoboi22(I want Nintendoboi2😠)
+-  Hi, I’m @Nintendoboi22(I got Nintendoboi2😃)
 -  I’m semi know: js, html, discord py (somewhat normal py)
 -  I’m currently learning: Java for AP classes
 -  How to reach me: discord? #Nintendoboi2
