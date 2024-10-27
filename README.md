@@ -7,7 +7,7 @@
   2. Each game is a different repo it is easier to fork, idk \
   3. I dont like to use the term "Unblocked Games", its just a game, I mean yes, it is unblocked, but the less codeworks the better. (asides from github tags) 
 - [Me make game website](https://nintendoboi22.github.io)
-- [and and another](https://nintendoboi222.github.io))
+- [and and another](https://nintendoboi222.github.io)
 - Goobers: ➡
 ![fortnite](cover3.jpg)
 ![kittie](gRE6UG.gif)
