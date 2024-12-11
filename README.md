@@ -11,4 +11,4 @@
 ![fortnite](cover3.jpg)
 ![kittie](gRE6UG.gif)
 ![Nintendoboi22's GitHub stats](https://github-readme-stats.vercel.app/api?username=nintendoboi22&show_icons=true&theme=synthwave)
-![GitHub Streak](https://streak-stats.demolab.com?user=Nintendoboi22&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)]
+![GitHub Streak](https://streak-stats.demolab.com?user=Nintendoboi22&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
