@@ -3,8 +3,7 @@
 -  I’m currently learning: Java for AP classes
 -  How to reach me: discord? #Nintendoboi2
 -  Random Facts:  
-  1. The reason why my links are so long is that teachers have to type all of that in to block it (hopefully). \
-  2. I dont like to use the term "Unblocked Games", its just a game, I mean yes, it is unblocked, but the less codeworks the better. (asides from github tags) 
+  1. I dont like to use the term "Unblocked Games", its just a game, I mean yes, it is unblocked, but the less codeworks the better. (asides from github tags) 
 - [Me make game website](https://nintendoboi22.github.io)
 - [and and another](https://nintendoboi222.github.io)
 - Goobers: ➡
