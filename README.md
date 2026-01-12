@@ -1,7 +1,7 @@
--  Hi, I’m @Nintendoboi22/nintendoboi2
--  I’m *know*: js, html, discord py (somewhat normal py)
--  I’m currently learning: Java for AP classes
--  How to reach me: discord? #Nintendoboi2
+## Hi, I’m @Nintendoboi22/nintendoboi2
+# Any Nintendoboi2 varients I do not follow arent offical. I dont care if you use them tho.
+-   I’m *know*: js, html, discord py, flask, and normal py
+-  How to reach me: discord? @Nintendoboi2
 -  Random Facts:  
   1. I dont like to use the term "Unblocked Games", its just a game, I mean yes, it is unblocked, but the less codeworks the better. (asides from github tags) 
 - [Me make game website](https://nintendoboi22.github.io)
