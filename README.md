@@ -11,6 +11,9 @@
 - Goober: 
 ![fortnite](cover3.jpg)
 <hr>
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nintendoboi22&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+
 <hr>
+
 # Check [My bio site ig](https://nintendoboi2.com) for better info
